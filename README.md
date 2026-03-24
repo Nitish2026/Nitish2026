@@ -10,7 +10,7 @@
 
 ---
 
-# My Work
+## My Work
 - **Deign a 8 Bit ALU** :-
 - **Deign a 8 Bit ALU** :-
 - **Deign a 8 Bit ALU** :-
@@ -27,7 +27,7 @@
 
 ---
 
-# Let’s Connect
+## Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/s-nitish2604/
 - 📧 Email: rnitish2june@gmail.com
 
