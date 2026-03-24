@@ -10,6 +10,14 @@
 
 ---
 
+# Projects
+- **Deign a 8 Bit ALU** :-
+- **Deign a 8 Bit ALU** :-
+- **Deign a 8 Bit ALU** :-
+- **Deign a 8 Bit ALU** :-
+
+---
+
 ## Tools & Skills
 - EDA tools: Cadence Virtuoso, LTSpice, Ngspice
 - Online EDA tools : CircuitVerse, EDA Playground
