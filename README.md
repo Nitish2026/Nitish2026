@@ -1,16 +1,25 @@
-#👋 Hello, I'm S Nitish
-Welcome to my GitHub! I'm an Electronics Undergrad passionate about VLSI Design and Digital Verification . I enjoy learning new technologies and applying them to real-world problems.
+# 👋 Hi, I'm S Nitish
+🎓 I am an Electronics Undergrad passionate about Digital VLSI Design, RTL Development, and ASIC Verification. . I enjoy learning new technologies and applying them to real-world problems.
 
 ---
 
-🔧 What I Do
-🔬 Analog VLSI Design
+## What I Do
+### 💻 Digital Design & Verification
+- RTL Design in **Verilog**
+- Functional verification using **System Verilog**
 
-Hands-on experience with SkyWater 130nm & GF180MCU PDKs
-Desiging OTAs, Custom Op-Amps
-Toolchain: Xschem, Ngspice, Magic VLSI, Netgen
-💻 Digital Design & Verification
+---
 
-RTL Design in Verilog
-Functional verification using Cocotb (SPI, 7-segment display decoding)
-VLSI competitions: Makerchip ASIC Design Showdown 2025 participant
+## Tools & Skills
+- EDA tools: Cadence Virtuoso, LTSpice, Ngspice
+- Online EDA tools : CircuitVerse, EDA Playground
+- HDL & Verification: Verilog, SystemVerilog (basic)
+- Programming: C, MATLAB
+- Other: Arduino IDE, Blynk
+
+---
+
+# Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/s-nitish2604/
+- 📧 Email: rnitish2june@gmail.com
+
