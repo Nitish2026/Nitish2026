@@ -10,7 +10,7 @@
 
 ---
 
-# Projects
+# My Work
 - **Deign a 8 Bit ALU** :-
 - **Deign a 8 Bit ALU** :-
 - **Deign a 8 Bit ALU** :-
