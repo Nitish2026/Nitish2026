@@ -11,19 +11,24 @@
 ---
 
 ## My Work
-- [**4x1 MUX Verification Using System Verilog**] :-
-- **Traffic Light Controller Using Verilog** :-
-- **Vending Machine Using Verilog** :-
-- **Deign a 8 Bit ALU** :-
+- **[4x1 MUX Verification Using System Verilog](https://github.com/Nitish2026/4x1-MUX-Verification.git)** :-
+- **[Traffic Light Controller Using Verilog](https://github.com/Nitish2026/Traffic-Light-Controller.git)** :-
+- **[Vending Machine Using Verilog](https://github.com/Nitish2026/Vending-Machine.git)** :-
+- **[Deign a 8 Bit ALU](https://github.com/Nitish2026/8-Bit-ALU.git)** :-
 
 ---
 
 ## Tools & Skills
-- EDA tools: Cadence Virtuoso, LTSpice, Ngspice
-- Online EDA tools : CircuitVerse, EDA Playground
 - HDL & Verification: Verilog, SystemVerilog (basic)
-- Programming: C, MATLAB
-- Other: Arduino IDE, Blynk
+ Verification Skills: Testbench Development, Functional Validation, Debugging 
+- Programming: C, 
+
+---
+
+## Tools
+- EDA tools: Cadence Virtuoso,Xilinx ISE, LTSpice, Ngspice
+- Online EDA tools : CircuitVerse, EDA Playground
+- Other: MATLAB, Arduino IDE, Blynk
 
 ---
 
