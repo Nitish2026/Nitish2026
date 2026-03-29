@@ -11,9 +11,9 @@
 ---
 
 ## My Work
-- **Deign a 8 Bit ALU** :-
-- **Deign a 8 Bit ALU** :-
-- **Deign a 8 Bit ALU** :-
+- [**4x1 MUX Verification Using System Verilog**] :-
+- **Traffic Light Controller Using Verilog** :-
+- **Vending Machine Using Verilog** :-
 - **Deign a 8 Bit ALU** :-
 
 ---
@@ -28,6 +28,6 @@
 ---
 
 ## Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/s-nitish2604/
+- 💼 LinkedIn: [S Nitish](https://www.linkedin.com/in/s-nitish2604/)
 - 📧 Email: rnitish2june@gmail.com
 
