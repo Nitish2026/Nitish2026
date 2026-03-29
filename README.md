@@ -1,5 +1,9 @@
 # 👋 Hi, I'm S Nitish
-🎓 I am an Electronics Undergrad passionate about Digital VLSI Design, RTL Development, and ASIC Verification. . I enjoy learning new technologies and applying them to real-world problems.
+🎓 Motivated Electronics and Communication Engineering undergraduate with a strong interest in VLSI design and verification and solid foundation in digital design, Verilog, and SystemVerilog. 
+
+🧠 Hands-on experience in developing and verifying digital systems including MUX, FSM-based controllers, and ALU designs. Familiar with testbench development, functional validation, and debugging using simulation tools. 
+
+Seeking an opportunity to contribute to ASIC/FPGA verification projects while enhancing technical expertise in the semiconductor domain. 
 
 ---
 
