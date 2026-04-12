@@ -27,7 +27,7 @@ Seeking an opportunity to contribute to ASIC/FPGA verification projects while en
 -	Core Concepts: Digital Electronics, FSM Design, CMOS Basics
 -	Programming: C
 -	Verification Skills: Testbench Development, Functional Validation, Debugging
--	Tools: Cadence Virtuoso, Xilinx ISE, Sue2, LTSpice, EDA Playground (Simulation)
+-	Tools: Cadence Virtuoso, Xilinx ISE, Sue2, LTSpice, EDA Playground (Open Source Tool)
 
 ---
 
