@@ -23,16 +23,11 @@ Seeking an opportunity to contribute to ASIC/FPGA verification projects while en
 ---
 
 ## Tools & Skills
-- HDL & Verification: Verilog, SystemVerilog (basic)
-- Verification Skills: Testbench Development, Functional Validation, Debugging 
-- Programming: C, 
-
----
-
-## Tools
-- EDA tools: Cadence Virtuoso,Xilinx ISE, LTSpice, Ngspice
-- Online EDA tools : CircuitVerse, EDA Playground
-- Other: MATLAB, Arduino IDE, Blynk
+- HDL Languages: Verilog, SystemVerilog
+-	Core Concepts: Digital Electronics, FSM Design, CMOS Basics
+-	Programming: C
+-	Verification Skills: Testbench Development, Functional Validation, Debugging
+-	Tools: Cadence Virtuoso, Xilinx ISE, Sue2, LTSpice, EDA Playground (Simulation)
 
 ---
 
